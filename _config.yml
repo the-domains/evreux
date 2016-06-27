@@ -1,0 +1,14 @@
+layout_spectrum: 0.8242534946184605
+typography_spectrum: 0.3266390946228057
+color:
+  brandStrength: 0.3591466951183975
+  lightness: 0.4943724786862731
+  saturation: 0.5810122904367745
+  rhythmicContrast: 0.7266767700202763
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: Evreux
